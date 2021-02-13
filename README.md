@@ -8,10 +8,11 @@ whitespaces in the String can be ignored.
 #BONUS
 
 1.Create a separate definition class for this task.
+
 2.Create a separate method for this task.
 [Google, Adobe, Microsoft]
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sample Starter Code
 
 import java.util.HashMap;
